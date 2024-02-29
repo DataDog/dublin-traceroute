@@ -17,7 +17,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/insomniacslk/dublin-traceroute/go/dublintraceroute/results"
+	"github.com/Datadog/dublin-traceroute/go/dublintraceroute/results"
 	"github.com/stretchr/testify/require"
 )
 

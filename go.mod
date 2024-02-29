@@ -1,4 +1,4 @@
-module github.com/insomniacslk/dublin-traceroute
+module github.com/Datadog/dublin-traceroute
 
 go 1.21
 
